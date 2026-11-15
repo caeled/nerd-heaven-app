@@ -1,0 +1,1 @@
+{"dependencies":{"@tauri-apps/plugin-opener":"^2.0.0"},"description":"Nerd Heaven desktop shell (Tauri v2)","devDependencies":{"@tauri-apps/cli":"^2.0.0"},"license":"MIT","name":"nerd-heaven-app","private":true,"scripts":{"tauri":"tauri"},"version":"1.0.0"}
